@@ -7,5 +7,5 @@ x1plus=x1+ d*sin(x3)*v1
 x2plus=x2+ d*cos(x3)*v1
 x3plus=x3+ c*v2
 
-c & d are constant called sampling time. All these are the transfer functions G
+c & d are constant called sampling time. All these defined the transfer functions 'G' of the Ground Vehicle.
 
